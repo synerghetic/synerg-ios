@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "96D5B7E51EE817500040CEDB"
+               BlueprintIdentifier = "9611A7771EE8499100F93762"
                BuildableName = "Synerg&apos;hetic.app"
                BlueprintName = "Synerg&apos;hetic"
                ReferencedContainer = "container:Synerg&apos;hetic.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D5B7E51EE817500040CEDB"
+            BlueprintIdentifier = "9611A7771EE8499100F93762"
             BuildableName = "Synerg&apos;hetic.app"
             BlueprintName = "Synerg&apos;hetic"
             ReferencedContainer = "container:Synerg&apos;hetic.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D5B7E51EE817500040CEDB"
+            BlueprintIdentifier = "9611A7771EE8499100F93762"
             BuildableName = "Synerg&apos;hetic.app"
             BlueprintName = "Synerg&apos;hetic"
             ReferencedContainer = "container:Synerg&apos;hetic.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D5B7E51EE817500040CEDB"
+            BlueprintIdentifier = "9611A7771EE8499100F93762"
             BuildableName = "Synerg&apos;hetic.app"
             BlueprintName = "Synerg&apos;hetic"
             ReferencedContainer = "container:Synerg&apos;hetic.xcodeproj">
